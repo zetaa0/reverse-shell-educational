@@ -14,6 +14,7 @@ Using it to access systems without authorization is illegal and can cause seriou
 - The server waits for a client to connect.
 - The client executes commands sent by the server and returns the output.
 - The connection can be closed with the `!QUIT` command.
+- To make it work change the IP.
 
 ---
 
